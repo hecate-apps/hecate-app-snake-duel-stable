@@ -6,7 +6,7 @@ on:
 
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: hecate-social/hecate-app-snake-duel-stabled
+  IMAGE_NAME: hecate-apps/hecate-app-snake-duel-stabled
 
 jobs:
   build-and-push:
